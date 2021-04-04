@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sohamnandi77/Instagram-Bot">
-    <img src="https://raw.githubusercontent.com/sohamnandi77/Instagram-Bot/main/img/logo.png" alt="Instagram Bot" width="300">
+    <img src="https://github.com/sohamnandi77/Instagram-Bot/blob/master/img/logo.png" alt="Instagram Bot" width="300">
   </a>
 </p>
 
